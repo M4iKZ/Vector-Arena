@@ -1,0 +1,17 @@
+usearch
+numpy
+pandas
+tabulate
+psutil
+tqdm
+openai
+scikit-learn
+pymilvus
+qdrant-client
+surrealdb
+chromadb
+lancedb
+faiss-cpu
+weaviate-client
+elasticsearch
+marqo
